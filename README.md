@@ -11,7 +11,7 @@ Veri setinde pandemi etkisi göz önünde bulundurulduğu için Ocak 2019 tarihi
 
 
 
-### Veriseti aşağıdaki Özniteliklerden oluşmaktadır:
+# Veriseti aşağıdaki Özniteliklerden oluşmaktadır:
 
   `Ilan_ID`:  Her bir ilana ait ID numaralarını içeren değişkendir.
   `Tarih` : 01.01.2019 Tarihinden itibaren başlayan zaman değişkenidir.
