@@ -9,6 +9,7 @@ Veri setinde pandemi etkisi göz önünde bulundurulduğu için Ocak 2019 tarihi
 
 * Veriseti toplam 99700 row ve 20 değişkenden oluşmaktadır.
 
+![image](https://user-images.githubusercontent.com/64266044/212756143-6182f1ee-02fa-41bc-adf6-c1ea9d3e0938.png)
 
 
 ## Veriseti aşağıdaki Özniteliklerden oluşmaktadır:
