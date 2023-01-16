@@ -46,3 +46,23 @@ Veri setinde pandemi etkisi göz önünde bulundurulduğu için Ocak 2019 tarihi
   `Id`: Ilan_ID
 
   `Expected`: Güncel_fiyat (TRY cinsinden)
+    
+    Model değerlendirme metriği olarak RMSE metriği dikkate alınmıştır.Notebook içerisinde bütün detayları bulabilirsiniz.
+
+    |─ dogus-zingat-real-estate-forecasting.ipynb
+
+        |─ Data preprocessing,Visualization and Feature Engineering
+        |─ netm ve brütm
+        |─ Daire
+        |─ Prefabirk Ev
+        |─ Villa
+        |─ Rezidans
+        |─ Yazlık
+        |─ Çiftlik Evi
+        |─ Yalı Dairesi
+        |─ Köşk / Konak / Yalı
+        |─ Parametre Tuning
+        |─ Cross Validation
+
+
+  
