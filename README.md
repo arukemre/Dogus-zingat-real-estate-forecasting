@@ -17,8 +17,8 @@ Veri setinde pandemi etkisi göz önünde bulundurulduğu için Ocak 2019 tarihi
 `Tarih` : 01.01.2019 Tarihinden itibaren başlayan zaman değişkenidir.
 `Path` : "IL/Ilce/Mahalle" formatında İstanbul'daki 5 ilçeyi barındıran object türündeki değişkendir.
 `Güncel_fiyat`: TRY biriminde tahminlenmesi beklenen hedef değişkenimizdir.
-`Odasayısı: Evin sahip olduğu oda sayısını "2+1" veya "3+1" gibi çeşitli yapılarda barındıran değişkenimizdir.
-`brütm²`:  Söz konusu evin brüt olarak kapladığı alana ait bilgi içeren değişkendir.
+`Odasayısı`: Evin sahip olduğu oda sayısını "2+1" veya "3+1" gibi çeşitli yapılarda barındıran değişkenimizdir.
+`brütm² `:  Söz konusu evin brüt olarak kapladığı alana ait bilgi içeren değişkendir.
 `netm²` :   Söz konusu evin net olarak kapladığı alan bilgisini içeren değişkendir.
 `Emlaktipi` : Daire, rezidans, villa, müstakil ev, Prefabrik Ev, Yalı Dairesi, Köşk / Konak / Yalı, Çiftlik Evi veya Yazlık olup olmadığını içeren değişkenlerdir.
 `Binayaşı` : Bina yaşının hangi aralıklarda olduğu bilgisini veren değişkendir.
